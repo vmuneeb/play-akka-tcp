@@ -1,4 +1,4 @@
-###AKKA TCP in java play framework application
+######AKKA TCP in java play framework application
 
 This is a sample java project which explains usage of AKKA TCP actors in a play framework application
-Details canbe found [here](http://)
+Details can be found [here](http://zxer.in/my-experience-scaling-akka-tcp-for-millions-of-users-in-play-framework/)
